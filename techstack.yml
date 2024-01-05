@@ -1,7 +1,8 @@
 repo_name: engmajdaldeen7/engmajdaldeen7
 report_id: 7c358d8fbec8205505faebb5e3baceb6
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-28T17:51:15+00:00'
+timestamp: '2024-01-05T08:31:52+00:00'
 requested_by: engmajdaldeen7
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/engmajdaldeen7/engmajdaldeen7
   detection_source: Repo Metadata
